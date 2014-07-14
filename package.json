@@ -1,0 +1,50 @@
+{
+  "name": "grunt-jsv",
+  "description": "JSON Validation Grunt Task using JSV",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Jahed/grunt-jsv",
+  "author": {
+    "name": "Jahed Ahmed",
+    "email": "jahed.public@gmail.com",
+    "url": "http://jahed.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jahed/grunt-jsv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jahed/grunt-jsv/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Jahed/grunt-jsv/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "jsv",
+    "validation",
+    "json",
+    "schema",
+    "json-schema",
+    "grunt"
+  ],
+  "dependencies": {
+    "JSV": "~4.0.2"
+  }
+}
