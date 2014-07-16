@@ -45,4 +45,5 @@ This plugin will not work with new changes and functionality introduced in draft
 ## License
 
 Copyright (c) 2014 Jahed Ahmed
+
 Licensed under the [MIT license](LICENSE-MIT).
