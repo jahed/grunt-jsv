@@ -1,6 +1,6 @@
 {
   "name": "grunt-jsv",
-  "description": "JSON Validation Grunt Task using JSV",
+  "description": "Grunt Task for validation JSON files using JSV",
   "version": "0.1.0",
   "homepage": "https://github.com/Jahed/grunt-jsv",
   "author": {

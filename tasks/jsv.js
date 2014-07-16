@@ -1,10 +1,10 @@
-/*
- * grunt-jsv
- * https://github.com/Jahed/grunt-jsv
- *
- * Copyright (c) 2014 Jahed Ahmed
- * Licensed under the MIT license.
- */
+//
+// grunt-jsv
+// https://github.com/Jahed/grunt-jsv
+//
+// Copyright (c) 2014 Jahed Ahmed
+// Licensed under the MIT license.
+//
 
 'use strict';
 
@@ -26,12 +26,12 @@ module.exports = function(grunt) {
             }
 
             try {
-                schema = JSON.parse(grunt.file.read(f.dest));     
+                schema = JSON.parse(grunt.file.read(f.dest));
             } catch(e) {
                 grunt.log.error('Failed to parse ' + f.dest);
                 grunt.fail.warn(e);
                 return;
-            }       
+            }
 
             grunt.log.subhead('Validating Against ' + (schema.title ? schema.title+' Schema' : f.dest));
 
@@ -61,7 +61,7 @@ module.exports = function(grunt) {
                     grunt.log.verbose.ok();
                     return;
                 }
-                
+
                 grunt.log.verbose.error();
                 grunt.log.writeln((
                     filepath + ' (' +
