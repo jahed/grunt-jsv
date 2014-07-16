@@ -1,6 +1,6 @@
 # grunt-jsv
 
-> JSON Validation Grunt Task using [JSV](https://github.com/garycourt/JSV/).
+> Grunt Task for validating JSON files using [JSV](https://github.com/garycourt/JSV/).
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
