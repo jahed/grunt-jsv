@@ -1,10 +1,10 @@
-/*
- * grunt-jsv
- * https://github.com/Jahed/grunt-jsv
- *
- * Copyright (c) 2014 Jahed Ahmed
- * Licensed under the MIT license.
- */
+//
+// grunt-jsv
+// https://github.com/Jahed/grunt-jsv
+//
+// Copyright (c) 2014 Jahed Ahmed
+// Licensed under the MIT license.
+//
 
 'use strict';
 

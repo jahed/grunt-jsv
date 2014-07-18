@@ -19,7 +19,7 @@ grunt.loadNpmTasks('grunt-jsv');
 ## Usage
 
 ```js
-//Configure the task by providing schemas with JSON files to validate
+// Configure the task by providing schemas with JSON files to validate
 grunt.config.init({
     // ...
     jsv: {
