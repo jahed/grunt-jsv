@@ -23,7 +23,7 @@ grunt.loadNpmTasks('grunt-jsv');
 grunt.config.init({
     // ...
     jsv: {
-        validate: {
+        your_target: {
             files: {
                 'schema/your-schema.json': ['json/*.json']
             }
