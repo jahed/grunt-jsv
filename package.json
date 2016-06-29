@@ -15,12 +15,7 @@
   "bugs": {
     "url": "https://github.com/Jahed/grunt-jsv/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/Jahed/grunt-jsv/blob/master/LICENSE-MIT"
-    }
-  ],
+  "license": "MIT",
   "engines": {
     "node": ">= 0.8.0"
   },
