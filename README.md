@@ -2,7 +2,8 @@
 
 > A Grunt Task for validating JSON files using [JSV](https://github.com/garycourt/JSV/).
 
-[![Build Status](https://travis-ci.org/jahed/grunt-jsv.svg?branch=master)](https://travis-ci.org/jahed/grunt-jsv)
+[![Build Status](https://img.shields.io/travis/jahed/grunt-jsv.svg)](https://travis-ci.org/jahed/grunt-jsv)
+[![NPM Release](https://img.shields.io/npm/dt/grunt-jsv.svg)](https://www.npmjs.com/package/grunt-jsv)
 
 ## Getting Started
 
