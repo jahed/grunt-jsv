@@ -2,7 +2,7 @@
   "name": "grunt-jsv",
   "description": "A Grunt Task for validating JSON files using JSV",
   "version": "0.1.7",
-  "homepage": "https://github.com/Jahed/grunt-jsv",
+  "homepage": "https://github.com/jahed/grunt-jsv",
   "author": {
     "name": "Jahed Ahmed",
     "email": "jahed.public@gmail.com",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Jahed/grunt-jsv.git"
+    "url": "git://github.com/jahed/grunt-jsv.git"
   },
   "bugs": {
-    "url": "https://github.com/Jahed/grunt-jsv/issues"
+    "url": "https://github.com/jahed/grunt-jsv/issues"
   },
   "license": "MIT",
   "engines": {
