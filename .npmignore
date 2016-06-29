@@ -1,0 +1,13 @@
+# .gitginore
+.idea
+node_modules
+
+*.log
+
+# npm specific
+test
+
+.travis.yml
+.jshintrc
+gruntfile.js
+
